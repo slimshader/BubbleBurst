@@ -1,0 +1,6 @@
+C:\Projects\sourceCode\BubbleBurst\Build\BubbleBurst.ViewModel.dll
+C:\Projects\sourceCode\BubbleBurst\Build\BubbleBurst.ViewModel.pdb
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst.ViewModel\obj\Debug\BubbleBurst.ViewModel.csprojAssemblyReference.cache
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst.ViewModel\obj\Debug\BubbleBurst.ViewModel.csproj.CopyComplete
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst.ViewModel\obj\Debug\BubbleBurst.ViewModel.dll
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst.ViewModel\obj\Debug\BubbleBurst.ViewModel.pdb

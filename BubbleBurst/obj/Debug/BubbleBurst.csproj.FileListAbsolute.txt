@@ -1,0 +1,10 @@
+C:\Projects\sourceCode\BubbleBurst\Build\BubbleBurst.exe
+C:\Projects\sourceCode\BubbleBurst\Build\BubbleBurst.pdb
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst\obj\Debug\BubbleBurst.csprojAssemblyReference.cache
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst\obj\Debug\BubbleBurstWindow.baml
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst\obj\Debug\App.g.cs
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst\obj\Debug\BubbleBurst_MarkupCompile.cache
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst\obj\Debug\BubbleBurst.g.resources
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst\obj\Debug\BubbleBurst.csproj.CopyComplete
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst\obj\Debug\BubbleBurst.exe
+C:\Projects\sourceCode\BubbleBurst\BubbleBurst\obj\Debug\BubbleBurst.pdb
